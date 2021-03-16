@@ -1,4 +1,5 @@
 # Sameer has created the file
+# editing for git commit ver 2
 
 from django.http import HttpResponse
 from django.shortcuts import render
